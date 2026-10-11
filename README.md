@@ -26,20 +26,6 @@ The dataset contains **119,390 hotel bookings** from two types of hotels (City H
 
 ---
 
-## 📁 Project Structure
-hotel-booking-demand-analysis/
-├── README.md
-├── databricks/
-│   └── hotel_analysis.sql
-├── powerbi/
-│   └── Hotel_Booking_Dashboard.pbix
-└── images/
-├── executive_overview.png
-├── cancellation_analysis.png
-└── revenue_seasonality.png
-
----
-
 ## Key Insights
 
 - **Overall Cancellation Rate:** 37.04%
