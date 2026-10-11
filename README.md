@@ -42,12 +42,17 @@ The dataset contains **119,390 hotel bookings** from two types of hotels (City H
 ### 1. Executive Overview
 High-level KPIs, cancellations by hotel, top countries, and monthly revenue trend.
 
+![Executive Overview](images/executive_overview.png)
+
 ### 2. Cancellation Analysis
 Deep dive into cancellation drivers: Lead Time, Market Segment, Deposit Type, and risk matrix.
+
+![Cancellation Analysis](images/cancellation_analysis.png)
 
 ### 3. Revenue & Seasonality
 Revenue performance, ADR trends, market segment contribution, and seasonal patterns.
 
+![Revenue & Seasonality](images/revenue_seasonality.png)
 ---
 
 ## Data Cleaning Process (Databricks)
